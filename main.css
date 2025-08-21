@@ -1,5 +1,3 @@
-
-
 h1 {
   font-size: 40px;
   font-family: Arial
@@ -15,5 +13,9 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-
-
+ 
+/* Header div styling */
+div {
+  background-color: darkcyan; /* greenish background */
+  text-align: right;
+}
